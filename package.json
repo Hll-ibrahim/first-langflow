@@ -4,5 +4,6 @@
   },
   "scripts": {
     "start": "node --env-file=.env ./index.js" 
-  }
+  },
+  "type": "module"
 }
